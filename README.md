@@ -28,7 +28,7 @@ Ultimately, the margins of runs gained are quite small, which is due in some par
 
 ![Boxplot vs Opposite Handedness Within Simulation](https://github.com/dev-1999/three_batter_rule/blob/master/images/boxplot_2.png)
 
-*Comparison simulated results of same situation with different pitcher.* 
+*Comparing only the simulated results in the same situation with opposite pitcher.* 
 
 As these results show, the most extreme differences in wins are only in the range of approximately 0.05 WPA. One way this could understate the effects is if this difference is greater with two poorer relievers with more extreme splits, and looking at different statlines (instead of pitcher_splits.csv) is likely the next step of this project.
 
