@@ -20,6 +20,18 @@ These are all processed into a single dataframe containing every relevant base/o
 
 Ultimately, the margins of runs gained are quite small, which is due in some part to our selection of relievers who lasted 3 seasons, but also due to the relatively small effects of these decisions in the long run. After our initial presentation, the feedback we received led to including the win expectancy in the revised version of this project. The boxplot below shows this effect and its few outliers in greater detail.
 
+![Boxplot vs Regular WPA](https://github.com/dev-1999/three_batter_rule/blob/master/images/boxplot_1.png)
 
-As per this simulation, the most extreme differences in wins are only in the range of approximately 0.05 WPA. One way this could understate the effects is if this difference is greater with two poorer relievers with more extreme splits, and looking at different statlines (instead of pitcher_splits.csv) is likely the next step of this project.
+*Shows this simulation is biased slightly towards pitching.*
 
+
+
+![Boxplot vs Opposite Handedness Within Simulation](https://github.com/dev-1999/three_batter_rule/blob/master/images/boxplot_2.png)
+
+*Comparison simulated results of same situation with different pitcher.* 
+
+As these results show, the most extreme differences in wins are only in the range of approximately 0.05 WPA. One way this could understate the effects is if this difference is greater with two poorer relievers with more extreme splits, and looking at different statlines (instead of pitcher_splits.csv) is likely the next step of this project.
+
+Thanks to my teammates and to Isaiah Berg, Kevin Seats, and Matt Bayer from the Cardinals.
+
+my email: devlin.s@wustl.edu
