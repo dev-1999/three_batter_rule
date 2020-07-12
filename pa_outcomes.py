@@ -1,5 +1,5 @@
 """
-These functions change the present state within the core loop of the simulation according to
+These functions change the present state within the core loop of the simulation according to PA outcomes.
 
 This code is taken and slightly adapted from Ben Clemens, originally used in his article about Austin Hedges here:
 https://blogs.fangraphs.com/some-fun-with-austin-hedges-a-baseball-extreme/
